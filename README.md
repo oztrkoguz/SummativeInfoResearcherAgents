@@ -13,3 +13,8 @@ Searches the internet for answers to each of the six questions (original plus fi
 #### Summary Agent
 Organizes the collected information into a short, coherent blog post in Markdown format.
 
+### Usage
+```
+git clone https://github.com/oztrkoguz/SummativeInfoResearcher.git
+cd SummativeInfoResearcher
+```
