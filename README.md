@@ -25,5 +25,4 @@ Python >= 3.10
 openai==1.30.1
 serpapi==0.1.5
 ```
-Serpapi API KEY
-Deepseek API KEY 
+You need to get API keys from APIs like Serpapi and Deepseek. You can also use different API services
