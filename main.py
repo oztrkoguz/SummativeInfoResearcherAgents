@@ -32,5 +32,5 @@ summary = summary_blog(client,enhanced_answers)
 print("Summary Blog Post:")
 print(summary)
 
-with open("output\final_report.md", 'w', encoding='utf-8') as file:
+with open("output\final.md", 'w', encoding='utf-8') as file:
         file.write(summary)
