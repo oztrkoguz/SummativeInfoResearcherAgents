@@ -17,6 +17,7 @@ Organizes the collected information into a short, coherent blog post in Markdown
 ```
 git clone https://github.com/oztrkoguz/SummativeInfoResearcher.git
 cd SummativeInfoResearcher
+python main.py
 ```
 
 ### Requirements
