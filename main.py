@@ -24,7 +24,7 @@ print("research results")
 print(output)
 
 enhanced_answers = edit_answers(output, client)
-print("cleared research results)
+print("cleared research results")
 print(enhanced_answers)
 
 # step3
