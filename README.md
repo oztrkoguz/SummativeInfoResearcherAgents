@@ -18,3 +18,12 @@ Organizes the collected information into a short, coherent blog post in Markdown
 git clone https://github.com/oztrkoguz/SummativeInfoResearcher.git
 cd SummativeInfoResearcher
 ```
+
+### Requirements
+```
+Python >= 3.10
+openai==1.30.1
+serpapi==0.1.5
+```
+Serpapi API KEY
+Deepseek API KEY 
