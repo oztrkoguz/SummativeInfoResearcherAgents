@@ -1,6 +1,6 @@
-## SummativeInfoResearcher
+## SummativeInfoResearcherAgents
 
-SummativeInfoResearcher is an agent framework designed to aid online research and content summarization. This project is designed to facilitate the process of generating, retrieving and summarizing information based on user input.
+SummativeInfoResearcherAgents is an agent framework designed to aid online research and content summarization. This project is designed to facilitate the process of generating, retrieving and summarizing information based on user input.
 
 ### Features
 
@@ -15,7 +15,7 @@ Organizes the collected information into a short, coherent blog post in Markdown
 
 ### Usage
 ```
-git clone https://github.com/oztrkoguz/SummativeInfoResearcher.git
+git clone https://github.com/oztrkoguz/SummativeInfoResearcherAgents.git
 cd SummativeInfoResearcher
 python main.py
 ```
